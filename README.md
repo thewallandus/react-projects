@@ -66,3 +66,14 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+//
+
+ADD THIS TO GET STARTED WITH THE PROJECTS:
+
+In your package.json: change this line
+
+"start": "react-scripts start"
+to
+
+"start": "react-scripts --openssl-legacy-provider start"
